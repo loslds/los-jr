@@ -1,8 +1,8 @@
 import React from 'react';
 
-const LoginPage = () => {
+const HomePage = () => {
     return (
-      <h1>LoginPage</h1>    
+      <h1>HomePage</h1>    
     );
 };
-export default LoginPage;
+export default HomePage;
